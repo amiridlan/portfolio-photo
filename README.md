@@ -53,12 +53,6 @@ This project is a web-based portfolio that beautifully showcases the photography
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🎯 Getting Started <a name="getting-started"></a>
 
 This is an example of how you may give instructions on setting up your project locally.
